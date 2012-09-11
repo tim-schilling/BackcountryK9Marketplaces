@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BackcountryK9Marketplaces.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AWSSecretAccessKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">wE+pOvPgSTKKxLx7cWYbVQZ36h5C1VvGeKkW7e8i</Value>
+    </Setting>
+    <Setting Name="AWSAccessKeyId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">AKIAJPTP7OWLD3P7UKVA</Value>
+    </Setting>
+    <Setting Name="AWSApplicationName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Backcountry K-9 - Outdoor Gear for Dogs</Value>
+    </Setting>
+    <Setting Name="AWSApplicationVersion" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">1.0</Value>
+    </Setting>
+    <Setting Name="AWSMarketplaceId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ATVPDKIKX0DER</Value>
+    </Setting>
+    <Setting Name="AWSMerchantId" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">A1D3MGWNIIEV9M</Value>
+    </Setting>
+    <Setting Name="TempFileDirectory" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">d:\temp</Value>
+    </Setting>
+    <Setting Name="AWSMerchantToken" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">M_BACKCOUNTR_1123894</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

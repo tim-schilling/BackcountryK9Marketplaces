@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackcountryK9Marketplaces", "BackcountryK9Marketplaces\BackcountryK9Marketplaces.csproj", "{0D1DB0DE-2F51-44D7-8544-8A49FCB95163}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackcountryK9Marketplaces.Tests", "BackcountryK9Marketplaces.Tests\BackcountryK9Marketplaces.Tests.csproj", "{87DE606D-A739-41FD-9F9C-8FF5946CD351}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{87DC19EF-A7E1-4E71-8194-E8C50C115862}"
+	ProjectSection(SolutionItems) = preProject
+		BackcountryK9Marketplaces.vsmdi = BackcountryK9Marketplaces.vsmdi
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AmazonClientLibrary", "AmazonClientLibrary", "{24D78141-6B61-4B22-A207-8A17D405DAF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketplaceWebService", "MarketplaceWebService\MarketplaceWebService.csproj", "{D121D692-FF26-3836-8115-E63D9FC3A3B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketplaceWebService.Samples", "MarketplaceWebService.Samples\MarketplaceWebService.Samples.csproj", "{05292895-0696-3169-9285-6122A2E660F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketplaceWebServiceOrders", "MarketplaceWebServiceOrders\MarketplaceWebServiceOrders.csproj", "{2AD52941-1F8A-3ED6-9F00-69F6F6AB2803}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketplaceWebServiceOrders.Samples", "MarketplaceWebServiceOrders.Samples\MarketplaceWebServiceOrders.Samples.csproj", "{E9D7E77F-EA3F-3C73-A740-C74D49A6978D}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = BackcountryK9Marketplaces.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D1DB0DE-2F51-44D7-8544-8A49FCB95163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D1DB0DE-2F51-44D7-8544-8A49FCB95163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D1DB0DE-2F51-44D7-8544-8A49FCB95163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D1DB0DE-2F51-44D7-8544-8A49FCB95163}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87DE606D-A739-41FD-9F9C-8FF5946CD351}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87DE606D-A739-41FD-9F9C-8FF5946CD351}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87DE606D-A739-41FD-9F9C-8FF5946CD351}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87DE606D-A739-41FD-9F9C-8FF5946CD351}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D121D692-FF26-3836-8115-E63D9FC3A3B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D121D692-FF26-3836-8115-E63D9FC3A3B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D121D692-FF26-3836-8115-E63D9FC3A3B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D121D692-FF26-3836-8115-E63D9FC3A3B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05292895-0696-3169-9285-6122A2E660F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05292895-0696-3169-9285-6122A2E660F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05292895-0696-3169-9285-6122A2E660F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05292895-0696-3169-9285-6122A2E660F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AD52941-1F8A-3ED6-9F00-69F6F6AB2803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AD52941-1F8A-3ED6-9F00-69F6F6AB2803}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AD52941-1F8A-3ED6-9F00-69F6F6AB2803}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AD52941-1F8A-3ED6-9F00-69F6F6AB2803}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9D7E77F-EA3F-3C73-A740-C74D49A6978D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9D7E77F-EA3F-3C73-A740-C74D49A6978D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9D7E77F-EA3F-3C73-A740-C74D49A6978D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9D7E77F-EA3F-3C73-A740-C74D49A6978D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D121D692-FF26-3836-8115-E63D9FC3A3B1} = {24D78141-6B61-4B22-A207-8A17D405DAF1}
+		{05292895-0696-3169-9285-6122A2E660F3} = {24D78141-6B61-4B22-A207-8A17D405DAF1}
+		{2AD52941-1F8A-3ED6-9F00-69F6F6AB2803} = {24D78141-6B61-4B22-A207-8A17D405DAF1}
+		{E9D7E77F-EA3F-3C73-A740-C74D49A6978D} = {24D78141-6B61-4B22-A207-8A17D405DAF1}
+	EndGlobalSection
+EndGlobal
